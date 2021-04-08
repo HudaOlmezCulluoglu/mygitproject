@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("Uzak sunucudaki kodum");
 		System.out.println("Versiyon 3");
 		System.out.println("versiyon 5");
+		System.out.println("versiyon 6");
  
 	}
 	}
