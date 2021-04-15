@@ -6,6 +6,8 @@ public class MyGitClass02 {
 		System.out.println("Hello World");
 		System.out.println("Merhaba Dunya");
 		System.out.println("Java cok guzel");
+		System.out.println("githup tan eclipse ye");
+		
 
 	}
 
