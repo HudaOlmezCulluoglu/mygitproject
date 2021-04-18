@@ -12,6 +12,9 @@ public class MyGitClass {
 		System.out.println("Hulya clasinda yazdigim kodlar");
 		System.out.println("Baharim icimde baslar");
 		System.out.println("Hulya clasina bahar gelsin gayri");
+		System.out.println("Hulya githubina bahar gelsin gayri");
+		
+  
  
 	}
 	}
