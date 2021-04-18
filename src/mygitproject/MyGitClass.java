@@ -10,6 +10,8 @@ public class MyGitClass {
 		System.out.println("versiyon 5");
 		System.out.println("versiyon 6");
 		System.out.println("Hulya clasinda yazdigim kodlar");
+		System.out.println("Baharim icimde baslar");
+		
  
 	}
 	}
